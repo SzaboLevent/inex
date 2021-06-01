@@ -1,26 +1,34 @@
-<!DOCTYPE html>
-<html lang="hu">
+<html>
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Óra</title>
+
+<title>cím</title>
 </head>
+
 <body>
-    <p id="kiir">&nbsp;</p>
+<div><img src="">
+<p></p>
+<img src="">
+</div>
+<p></p>
+<a href="w1.html"></a>
+<a href="w2.html"></a>
+<a href="w3.html"></a>
+<a href="w4.html"></a>
+<div>
+</div>
 
-    <p><button type="button" id="start">Indít</button>
-    <button type="button" id="stop">Megállít</button></p>
+<div>
+<h1></h1>
+<p></p>
+</div>
 
-    <script src="ora.js"></script>
+<div>
+<h3></h3>
+<a></a>
+
+</div>
+
 </body>
+
 </html>
-
-
-
-
-
-
-
-
-
